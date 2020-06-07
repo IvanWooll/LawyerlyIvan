@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Lawyerly-Ivan</string>
+    <string name="app_name">Lawyerly</string>
     <string name="action_settings">Settings</string>
     <!-- Strings used for fragments for navigation -->
     <string name="first_fragment_label">First Fragment</string>
@@ -9,4 +9,16 @@
 
     <string name="hello_first_fragment">Hello first fragment</string>
     <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="lawyer_details">Lawyer details</string>
+    <string name="schedule_lawyer">SCHEDULE LAWYER</string>
+    <string name="rating">Rating</string>
+    <string name="reviews">Reviews</string>
+    <string name="ranking">Ranking</string>
+    <string name="description">Description</string>
+    <string name="another_info">Another Info</string>
+    <string name="promotional_text">1st FREE CONSULTATION Available</string>
+    <string name="time_placeholder">Member Since: Oct 2015</string>
+    <string name="response_placeholder">Avg. Response Time: 1 day</string>
+    <string name="sort">Sort</string>
+    <string name="filters">Filters</string>
 </resources>
